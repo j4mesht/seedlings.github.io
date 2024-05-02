@@ -1435,6 +1435,7 @@ html.with-src-menu .mad-back-to-top {
     padding-bottom: 12.75rem;
     background-repeat: no-repeat;
     color: var(--color-neutral-15);
+    background-position: bottom;
 }
 
 .mad-breadcrumb.with-bg-img .mad-page-title, .mad-breadcrumb.with-bg-img .mad-link {
