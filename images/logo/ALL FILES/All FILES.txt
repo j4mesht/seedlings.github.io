@@ -1,0 +1,22 @@
+JPG files:
+These files contain a specific color background.
+
+PNG files: 
+These files contain a transparent background. If you are using a phone, you may find the black background but in actual it's not.
+
+Vector files:
+- These files are in AI, EPS, PDF format.
+- AI, EPS files are high resolution and editable (you can scale up or scale down and it will not pixelated)
+- PDF file is also high resolution
+- To open AI,EPS, the Adobe Illustrator software is required.
+
+Font file:
+This file contains a font with it's name which are actually used for the logo text. You can install in your computer as well. 
+
+PSD file:
+This is again a high resolution editable file and to open this Adobe Photoshop is required
+
+Color code file:
+This file contains specific codes of the color which are used in the design.
+
+***We recommend you to use a PC to check all the files to see the exact/perfect result. 
