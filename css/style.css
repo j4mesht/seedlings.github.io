@@ -753,13 +753,13 @@ img.alignright {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    column-gap: 2rem;
+    column-gap: 5rem;
 }
 
 .mad-header-item {
     display: flex;
     align-items: center;
-    column-gap: 2.5rem;
+    column-gap: 3rem;
 }
 
 .mad-navigation-container {
