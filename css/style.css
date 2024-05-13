@@ -762,6 +762,8 @@ img.alignright {
     column-gap: 3rem;
 }
 
+.margin
+
 .mad-navigation-container {
     display: flex;
 }
@@ -789,6 +791,10 @@ img.alignright {
     font-size: 1.75rem;
     max-width: 1.5rem;
 }
+
+.ms-9 {
+    margin-left: 10rem!important
+  }
 
 /* ----------------------------------------
             Navigation
