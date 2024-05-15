@@ -3259,6 +3259,7 @@ blockquote:not(.mad-blockquote--unstyled) {
     position: relative;
     text-transform: uppercase;
     background: var(--color-primary);
+    border-radius: 50px;
 }
 
 .btn.w-100 {
