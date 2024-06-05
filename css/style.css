@@ -265,9 +265,9 @@ mark.style-2 {
 
 :root {
     font-size: 16px;
-    --color-primary: #007931;
+    --color-primary: #F07402;
     --color-primary-darker: #005E26;
-    --color-primary-lighter: #009E3F;
+    --color-primary-lighter: #F3AF02;
     --color-primary-50: #80CF9F;
     --color-primary-25: #BFE6CF;
     --color-primary-10: #E6F6EC;
@@ -281,9 +281,9 @@ mark.style-2 {
     --color-neutral-10: #EBEBEB;
     --color-neutral-5: #F3F3F3;
     --color-neutral-0: #fff;
-    --color-secondary: #034543;
-    --color-secondary-80: #356A69;
-    --color-secondary-60: #688F8E;
+    --color-secondary: #014C4F;
+    --color-secondary-80: #245F61;
+    --color-secondary-60: #3da187;
     --color-secondary-40: #9AB5B4;
     --color-secondary-20: #CDDCD9;
     --color-secondary-10: #E6EFED;
