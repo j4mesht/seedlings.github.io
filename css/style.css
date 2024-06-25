@@ -2146,11 +2146,11 @@ html.with-src-menu .mad-back-to-top {
 }
 
 .mad-footer .mad-footer-main {
-    padding-top: 9rem;
+    padding-top: 4.5rem;
 }
 
 .mad-footer-top {
-    padding: 3rem 0;
+    padding: 1rem 0;
     border-bottom: 1px solid var(--color-secondary-20);
 }
 
@@ -2172,7 +2172,7 @@ html.with-src-menu .mad-back-to-top {
 }
 
 .mad-footer .mad-widget:not(:last-child) {
-    margin-bottom: 4.5rem;
+    margin-bottom: 3.5rem;
 }
 
 .copyrights {
@@ -2208,7 +2208,7 @@ html.with-src-menu .mad-back-to-top {
 }
 
 .mad-footer.footer-3 .mad-footer-main:not(:last-child) {
-    margin-bottom: 0.5rem;
+    margin-bottom: 1.5rem;
 }
 
 .mad-coming-soon-page .mad-footer.footer-3 {
@@ -9696,8 +9696,9 @@ form .btn.wide,
     width: 8rem;
     height: 6.5rem;
     color: var(--color-neutral-0);
-    background: url(../images/story_bg_icon2.svg) no-repeat center;
-    background-size: 208px;
+    background: url(../images/story_bg_icon3.svg) no-repeat center;
+    background-size: 474px;
+    background-position: 48% 53%;
     text-align: center;
     line-height: 6.5rem;
     display: block;
